@@ -1,0 +1,42 @@
+Funciones.
+
+Antes:				Después:
+
+TiempoEntreLlegadasPeaton	tim_entre_llegada_pie
+TiempoEntreLlegadasCarro	tim_entre_llegada_carro
+TiempoEspera			tim_espera
+EliminarClientesRestantes	borrar_clientes
+
+Variables.
+
+Antes:				Después:
+
+TiempoAnterior			tim_anterior
+TiempoAnteriorPeaton		tim_anterior_pie
+TiempoAnteriorCarro		tim_anterior_carro
+TotalCaminando			caminando_total
+TotalCarro			carros_total
+TiempoPromedioCaminando		tim_prom_caminando
+TiempoPromedioCarro		tim_prom_carro
+TiempoLlegadaCaminando		tim_llega_caminando
+TiempoLlegadaCarro		tim_llega_carro
+TiempoPromedioClientePeaton	tim_prom_clien_caminando
+TiempoPromedioClienteCarro	tim_prom_clien_carro
+TotalClientePeatonAtendido	tot_clien_caminando_atendidos
+TotalClienteCarroAtendido	tot_clien_carro_atendidos
+ClientePeatonCola		cola_clien_caminando
+ClienteCarroCola		cola_clien_carros
+ClientePeatonPromedio		prom_clien_caminando
+ClienteCarroPromedio		prom_clien_carros
+index1				index_1
+index2				index_2
+PorcentajeCindy			porcentaje_cindy
+PorcentajeOcupadoPeaton		porcentaje_ocupado_peaton
+PorcentajeOcupadoCarro		porcentaje_ocupado_carro
+lastIndex1			ultimo_index_1
+lastIndex2			ultimo_index_2
+TotalTime			tiempo_total
+TotalTimePeaton			tiempo_total_peaton
+TotalTimeCarro			tiempo_total_carro
+
+
